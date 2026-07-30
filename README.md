@@ -69,10 +69,5 @@ This project includes SQL queries to answer business questions such as:
 
 5) Cancelled Orders Count
 
-6) Which product is the most expensive?
-
-
-
-
-
-## ⭐ If you found this
+6) Which product is the most expensive ?
+   
