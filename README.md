@@ -3,6 +3,9 @@
 
 A beginner-friendly MySQL project that simulates an **E-Commerce Shopping Management System**. This project demonstrates the complete database development process—from creating a database and tables to inserting sample data and performing business analysis using SQL queries.
 
+# Database Schema
+<img width="1018" height="832" alt="image" src="https://github.com/user-attachments/assets/6db35e16-a35d-4dba-bd9e-fd0f9929652d" />
+
 
 
 ## 📌 Project Overview
